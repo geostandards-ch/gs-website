@@ -6,12 +6,12 @@ Temporary website for [GeoStandards.ch](https://geostandards.ch/)
 
 `pnpm install`
 
-`pnpm run dev`
+`pnpm dev`
 
 ## Build
 
-`pnpm run build`
+`pnpm build`
 
-`pnpm run preview`
+`pnpm preview`
 
 Build assets are in `/dist`
