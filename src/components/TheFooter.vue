@@ -1,25 +1,22 @@
 <template>
-  <div>
-    <div class="w-full h-40 bg-slate-600"></div>
+  <footer class="mt-24">
+    <div class="w-full h-24 bg-slate-600"></div>
     <div class="w-full h-40 bg-slate-700">
-      <p class="font-display font-bold text-md">{{ $t("general.title") }}</p>
+      <div class="container m-auto px-4 flex flex-col justify-center h-full">
+        <p class="font-display text-md text-white text-center">
+          Copyright © {{ $t("general.title") }} – {{ creditYears() }}
+        </p>
+      </div>
     </div>
-  </div>
+  </footer>
 </template>
 
-<script setup>
-import { ref, watch } from "vue";
-import { useI18n } from "vue-i18n";
-
-const { locale } = useI18n();
-const selectedLanguage = ref(locale.value);
-
-const languages = [
-  { label: "English", value: "en" },
-  { label: "Français", value: "fr" },
-];
-
-watch(selectedLanguage, (newLang) => {
-  locale.value = newLang;
-});
+<script setup lang="ts">
+const creditYears = () => {
+  const currentYear = new Date().getFullYear();
+  if (currentYear > 2021) return `2021-${currentYear}`;
+  else return currentYear;
+};
 </script>
+
+<style scoped></style>
