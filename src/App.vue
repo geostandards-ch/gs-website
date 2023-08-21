@@ -21,22 +21,21 @@
               ></path>
             </svg>
           </a>
-          <div class="partners flex mt-6">
-            <img
-              src="https://placehold.co/150x100"
-              alt="Logo"
-              class="rounded-3xl mt-6 lg:mt-0"
-            />
-            <img
-              src="https://placehold.co/150x100"
-              alt="Logo"
-              class="rounded-3xl mt-6 lg:mt-0"
-            />
-            <img
-              src="https://placehold.co/150x100"
-              alt="Logo"
-              class="rounded-3xl mt-6 lg:mt-0"
-            />
+          <div class="partners flex flex-col mt-6">
+            <a
+              href="https://www.kgk-cgc.ch/"
+              target="_blank"
+              class="partner-logo"
+            >
+              <img src="./assets/logo-kgk.png" alt="Logo" />
+            </a>
+            <a
+              href="https://www.swisstopo.admin.ch/"
+              target="_blank"
+              class="partner-logo"
+            >
+              <img src="./assets/logo-swisstopo.png" alt="Logo" />
+            </a>
           </div>
         </div>
         <div class="w-full lg:w-1/3">
@@ -237,12 +236,18 @@ section h3 {
 section p {
   @apply text-slate-800;
 }
-
 .team-axis {
   @apply mt-8 flex;
 }
-
 .partners img {
   @apply mr-3;
+}
+
+.partner-logo {
+  @apply mt-6;
+  filter: grayscale(1);
+}
+.partner-logo:hover {
+  filter: grayscale(0);
 }
 </style>
