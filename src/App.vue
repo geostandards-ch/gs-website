@@ -9,7 +9,7 @@
       </h2>
       <div class="flex flex-col lg:flex-row">
         <div class="w-full lg:w-2/3 pr-0 lg:pr-16">
-          <p>{{ t("introduction.description") }}</p>
+          <p class="text-justify">{{ t("introduction.description") }}</p>
           <a
             class="button"
             :href="t('introduction.button.link')"
@@ -21,10 +21,27 @@
               ></path>
             </svg>
           </a>
+          <div class="partners flex mt-6">
+            <img
+              src="https://placehold.co/150x100"
+              alt="Logo"
+              class="rounded-3xl mt-6 lg:mt-0"
+            />
+            <img
+              src="https://placehold.co/150x100"
+              alt="Logo"
+              class="rounded-3xl mt-6 lg:mt-0"
+            />
+            <img
+              src="https://placehold.co/150x100"
+              alt="Logo"
+              class="rounded-3xl mt-6 lg:mt-0"
+            />
+          </div>
         </div>
         <div class="w-full lg:w-1/3">
           <img
-            src="./assets/cover.png"
+            src="./assets/geostandards-cover.png"
             alt="Map switzerland"
             class="rounded-3xl mt-6 lg:mt-0"
           />
@@ -69,76 +86,112 @@
       <p>{{ t("team.description") }}</p>
       <!-- Marketing -->
       <div class="team-axis">
-        <h3>{{ t("team.marketing.title") }}</h3>
-        <p>
-          {{ t("team.marketing.holders.holder-1") }},
-          {{ t("team.marketing.holders.holder-2") }}
-        </p>
-        <a
-          class="button"
-          :href="`mailto:${t('team.marketing.contact.full')}`"
-          target="_blank"
-          >{{ t("team.marketing.contact.label") }}
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-            <path
-              d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"
-            ></path>
-          </svg>
-        </a>
+        <div class="mr-8">
+          <img
+            src="./assets/marketing.png"
+            alt="Map switzerland"
+            class="rounded-3xl mt-6 lg:mt-0 w-32 sm:w-40"
+          />
+        </div>
+        <div>
+          <h3>{{ t("team.marketing.title") }}</h3>
+          <p>
+            {{ t("team.marketing.holders.holder-1") }},
+            {{ t("team.marketing.holders.holder-2") }}
+          </p>
+          <a
+            class="button"
+            :href="`mailto:${t('team.marketing.contact.full')}`"
+            target="_blank"
+            >{{ t("team.marketing.contact.label") }}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+              <path
+                d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"
+              ></path>
+            </svg>
+          </a>
+        </div>
       </div>
       <!-- Training -->
       <div class="team-axis">
-        <h3>{{ t("team.training.title") }}</h3>
-        <p>
-          {{ t("team.training.holders.holder-1") }},
-          {{ t("team.training.holders.holder-2") }}
-        </p>
-        <a
-          class="button"
-          :href="`mailto:${t('team.training.contact.full')}`"
-          target="_blank"
-          >{{ t("team.training.contact.label") }}
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-            <path
-              d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"
-            ></path>
-          </svg>
-        </a>
+        <div class="mr-8">
+          <img
+            src="./assets/training.png"
+            alt="Map switzerland"
+            class="rounded-3xl mt-6 lg:mt-0 w-32 sm:w-40"
+          />
+        </div>
+        <div>
+          <h3>{{ t("team.training.title") }}</h3>
+          <p>
+            {{ t("team.training.holders.holder-1") }},
+            {{ t("team.training.holders.holder-2") }}
+          </p>
+          <a
+            class="button"
+            :href="`mailto:${t('team.training.contact.full')}`"
+            target="_blank"
+            >{{ t("team.training.contact.label") }}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+              <path
+                d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"
+              ></path>
+            </svg>
+          </a>
+        </div>
       </div>
       <!-- Standardisation -->
       <div class="team-axis">
-        <h3>{{ t("team.standardisation.title") }}</h3>
-        <p>
-          {{ t("team.standardisation.holders.holder-1") }},
-          {{ t("team.standardisation.holders.holder-2") }}
-        </p>
-        <a
-          class="button"
-          :href="`mailto:${t('team.standardisation.contact.full')}`"
-          target="_blank"
-          >{{ t("team.standardisation.contact.label") }}
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-            <path
-              d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"
-            ></path>
-          </svg>
-        </a>
+        <div class="mr-8">
+          <img
+            src="./assets/standardisation.png"
+            alt="Map switzerland"
+            class="rounded-3xl mt-6 lg:mt-0 w-32 sm:w-40"
+          />
+        </div>
+        <div>
+          <h3>{{ t("team.standardisation.title") }}</h3>
+          <p>
+            {{ t("team.standardisation.holders.holder-1") }},
+            {{ t("team.standardisation.holders.holder-2") }}
+          </p>
+          <a
+            class="button"
+            :href="`mailto:${t('team.standardisation.contact.full')}`"
+            target="_blank"
+            >{{ t("team.standardisation.contact.label") }}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+              <path
+                d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"
+              ></path>
+            </svg>
+          </a>
+        </div>
       </div>
       <!-- Tools -->
       <div class="team-axis">
-        <h3>{{ t("team.tools.title") }}</h3>
-        <p>
-          {{ t("team.tools.holders.holder-1") }},
-          {{ t("team.tools.holders.holder-2") }}
-        </p>
-        <a class="button" :href="testMail" target="_blank"
-          >{{ t("team.tools.contact.label") }}
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-            <path
-              d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"
-            ></path>
-          </svg>
-        </a>
+        <div class="mr-8">
+          <img
+            src="./assets/tools.png"
+            alt="Map switzerland"
+            class="rounded-3xl mt-6 lg:mt-0 w-32 sm:w-40"
+          />
+        </div>
+        <div>
+          <h3>{{ t("team.tools.title") }}</h3>
+          <p>
+            {{ t("team.tools.holders.holder-1") }},
+            {{ t("team.tools.holders.holder-2") }}
+          </p>
+          <a class="button" :href="testMail" target="_blank"
+            >{{ t("team.tools.contact.label") }}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+              <path
+                d="M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48ZM203.43,64,128,133.15,52.57,64ZM216,192H40V74.19l82.59,75.71a8,8,0,0,0,10.82,0L216,74.19V192Z"
+              ></path>
+            </svg>
+          </a>
+        </div>
       </div>
     </section>
   </div>
@@ -166,9 +219,9 @@ section {
 
 .button {
   @apply bg-white px-6 py-4 rounded-lg inline-block font-display inline-flex;
-  @apply border border-red-600 text-red-600 fill-red-600;
+  @apply border border-primary-500 text-primary-500 fill-primary-500;
   @apply mt-3;
-  @apply hover:bg-red-600 hover:text-white hover:fill-white;
+  @apply hover:bg-primary-500 hover:text-white hover:fill-white;
 }
 
 .button svg {
@@ -186,6 +239,10 @@ section p {
 }
 
 .team-axis {
-  @apply mt-8;
+  @apply mt-8 flex;
+}
+
+.partners img {
+  @apply mr-3;
 }
 </style>

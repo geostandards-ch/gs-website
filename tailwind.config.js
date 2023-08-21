@@ -6,7 +6,21 @@ export default {
     fontFamily: {
       display: ["Poppins", "sans-serif"],
     },
-    extend: {},
+    extend: {
+      colors: {
+        primary: {
+          100: "#E5F5EF",
+          200: "#AEE0CE",
+          300: "#9BD9C3",
+          400: "#64C4A2",
+          500: "#3C9E7B",
+          600: "#2E7A5F",
+          700: "#205542",
+          800: "#123025",
+          900: "#0B1E17",
+        },
+      },
+    },
   },
   plugins: [],
 };
