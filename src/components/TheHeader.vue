@@ -6,7 +6,7 @@
           <h1 class="font-display font-bold text-4xl">
             {{ t("general.title") }}
           </h1>
-          <p>{{ t("general.headline") }}</p>
+          <p class="headline">{{ t("general.headline") }}</p>
         </div>
 
         <LangPicker />
@@ -24,3 +24,9 @@ import LangPicker from "../components/LangPicker.vue";
 
 const { t } = useI18n();
 </script>
+
+<style scoped>
+.headline {
+  letter-spacing: 0.145em;
+}
+</style>
