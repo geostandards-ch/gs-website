@@ -5,40 +5,40 @@
     "langPickerLabel": "Select language"
   },
   "introduction": {
-    "title": "Qui sommes-nous ?",
-    "description": "Au nom et sous la supervision de l'organe de pilotage 'Moyens dédiés à l’INDG' - composé de représentants de KOGIS, KKGEO et CadastreSuisse - les responsables thématiques ci-dessous organisent la mise en place d'une nouvelle organisation dans le domaine des normes de géoinformation / gouvernance INTERLIS sous la coordination et la gestion du bureau. Une stratégie est en cours d'élaboration et comparée avec les parties prenantes (Confédération, cantons, SOGI, eCH.…). Les travaux sont financés par  des fonds affectés de NGDI.",
+    "title": "About us ?",
+    "description": "On behalf and under the supervision of the steering body «Ressources dedicated to the NGDI» - composed of representatives from KOGIS and KGK - the thematic leaderships below organize, under the coordination and direction of the secretariat, the «establishment of a new organization in the field of geoinformation standards / INTERLIS governance». Currently, a strategy is being developed and aligned with stakeholders (Federal government, cantons, SOGI, eCH, etc.). The work is funded by the ressources dedicated to the NGDI.",
     "button": {
-      "label": "Page de présentation des moyens dédiés à l’INDG",
-      "link": "https://www.geo.admin.ch/fr/moyens-dedies-indg"
+      "label": "«Ressources dedicated to the NGDI» presentation page (FR or DE only)",
+      "link": "https://www.geo.admin.ch/en/moyens-dedies-indg"
     }
   },
   "strategy": {
-    "title": "Stratégie",
-    "description": "La stratégie GeoStandards.ch a été validée le 7.6.2021 dans sa version 1.0 par le mandant. Elle comprend 2 pages et définit 8 principes stratégiques de base de GeoStandards.ch",
+    "title": "Strategy",
+    "description": "Version 1.0 of the GeoStandards.ch strategy was approved on 07.06.2021. It comprises 2 pages and defines 8 basic strategic principles for GeoStandards.ch.",
     "button": {
-      "label": "Consulter le plan stratégique (PDF – 900kb)",
+      "label": "Consult the strategic plan - DE only (PDF – 900kb)",
       "link": "https://nextcloud.geostandards.ch/index.php/s/iMgmzjigyXtjkmK"
     }
   },
   "organization": {
     "title": "Organisation",
-    "description": "La version 1.0 du concept d'organisation GeoStandards.ch a été approuvée le 8.7.2021 par le mandant. Il comprend 33 pages et contient une introduction, une analyse de la situation, un état souhaité et un concept de transition.",
+    "description": "Version 1.0 of the GeoStandards.ch organisational concept was approved on 08.07.2021. It comprises 33 pages and contains an introduction, a situation analysis, a desired state and a transition concept.",
     "button": {
-      "label": "Consulter le plan d'organisation (PDF – 1.2mb)",
+      "label": "Consult the organisation plan - DE only (PDF – 1.2mb)",
       "link": "https://nextcloud.geostandards.ch/index.php/s/Wpj8xWpFrWmkbRL"
     }
   },
   "team": {
-    "title": "Groupe de travail",
-    "description": "L'équipe GeoStandards.ch est structurée autour de 4 axes.",
+    "title": "Working group",
+    "description": "The GeoStandards.ch team is structured around 4 axes:",
     "marketing": {
-      "title": "Secrétariat et marketing",
+      "title": "Secretariat and marketing",
       "holders": {
         "holder-1": "Frank Gottsmann",
-        "holder-2": "Stv. Peter Staub"
+        "holder-2": "dep. Peter Staub"
       },
       "contact": {
-        "label": "Contacter par mail",
+        "label": "Contact by mail",
         "fake": "info[at]geostandards.ch",
         "full": "info{'@'}geostandards.ch"
       }
@@ -50,7 +50,7 @@
         "holder-2": "Bildungszentrum Geomatik Schweiz"
       },
       "contact": {
-        "label": "Contacter par mail",
+        "label": "Contact by mail",
         "fake": "ausbildung[at]geostandards.ch",
         "full": "ausbildung{'@'}geostandards.ch"
       }
@@ -59,22 +59,22 @@
       "title": "Standardisation",
       "holders": {
         "holder-1": "a.i. Frank Gottsmann",
-        "holder-2": "Stv. Peter Staub"
+        "holder-2": "dep. Peter Staub"
       },
       "contact": {
-        "label": "Contacter par mail",
+        "label": "Contact by mail",
         "fake": "standardisierung[at]geostandards.ch",
         "full": "standardisierung{'@'}geostandards.ch"
       }
     },
     "tools": {
-      "title": "Outils",
+      "title": "Tools",
       "holders": {
         "holder-1": "Stefan Henrich",
         "holder-2": "Moflex Infra GmbH"
       },
       "contact": {
-        "label": "Contacter par mail",
+        "label": "Contact by mail",
         "fake": "tools[at]geostandards.ch",
         "full": "tools{'@'}geostandards.ch"
       }

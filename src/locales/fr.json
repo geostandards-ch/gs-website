@@ -6,36 +6,36 @@
   },
   "introduction": {
     "title": "Qui sommes-nous ?",
-    "description": "Au nom et sous la supervision de l'organe de pilotage 'Moyens dédiés à l’INDG' - composé de représentants de KOGIS, KKGEO et CadastreSuisse - les responsables thématiques ci-dessous organisent la mise en place d'une nouvelle organisation dans le domaine des normes de géoinformation / gouvernance INTERLIS sous la coordination et la gestion du bureau. Une stratégie est en cours d'élaboration et comparée avec les parties prenantes (Confédération, cantons, SOGI, eCH.…). Les travaux sont financés par  des fonds affectés de NGDI.",
+    "description": "Sur mandat et sous la supervision de l'organe de pilotage «Moyens dédiées à l'INDG» - constitué de représentants de la COSIG et de la CGC - les directions thématiques ci-dessous organisent, sous la coordination et la direction du secrétariat, la «mise en place d'une nouvelle organisation dans le domaine des normes de géoinformation / de la gouvernance INTERLIS». À l'heure actuelle, une stratégie est en cours d'élaboration et est en train d'être alignée avec les parties prenantes (Confédération, cantons, SOGI, eCH, etc.). Les travaux sont financés par les moyens dédiées à l'INDG.",
     "button": {
-      "label": "Page de présentation des moyens dédiés à l’INDG",
+      "label": "Page de présentation des «moyens dédiés à l’INDG»",
       "link": "https://www.geo.admin.ch/fr/moyens-dedies-indg"
     }
   },
   "strategy": {
     "title": "Stratégie",
-    "description": "La stratégie GeoStandards.ch a été validée le 7.6.2021 dans sa version 1.0 par le mandant. Elle comprend 2 pages et définit 8 principes stratégiques de base de GeoStandards.ch",
+    "description": "La stratégie GeoStandards.ch a été validée le 07.06.2021 dans sa version 1.0. Elle comprend 2 pages et définit 8 principes stratégiques de base de GeoStandards.ch",
     "button": {
-      "label": "Consulter le plan stratégique (PDF – 900kb)",
+      "label": "Consulter le plan stratégique - DE uniquement (PDF – 900kb)",
       "link": "https://nextcloud.geostandards.ch/index.php/s/iMgmzjigyXtjkmK"
     }
   },
   "organization": {
     "title": "Organisation",
-    "description": "La version 1.0 du concept d'organisation GeoStandards.ch a été approuvée le 8.7.2021 par le mandant. Il comprend 33 pages et contient une introduction, une analyse de la situation, un état souhaité et un concept de transition.",
+    "description": "La version 1.0 du concept d'organisation GeoStandards.ch a été approuvée le 08.07.2021. Il comprend 33 pages et contient une introduction, une analyse de la situation, un état souhaité et un concept de transition.",
     "button": {
-      "label": "Consulter le plan d'organisation (PDF – 1.2mb)",
+      "label": "Consulter le plan d'organisation - DE uniquement (PDF – 1.2mb)",
       "link": "https://nextcloud.geostandards.ch/index.php/s/Wpj8xWpFrWmkbRL"
     }
   },
   "team": {
     "title": "Groupe de travail",
-    "description": "L'équipe GeoStandards.ch est structurée autour de 4 axes.",
+    "description": "L'équipe GeoStandards.ch est structurée autour de 4 axes:",
     "marketing": {
       "title": "Secrétariat et marketing",
       "holders": {
         "holder-1": "Frank Gottsmann",
-        "holder-2": "Stv. Peter Staub"
+        "holder-2": "adj. Peter Staub"
       },
       "contact": {
         "label": "Contacter par mail",
@@ -59,7 +59,7 @@
       "title": "Standardisation",
       "holders": {
         "holder-1": "a.i. Frank Gottsmann",
-        "holder-2": "Stv. Peter Staub"
+        "holder-2": "adj. Peter Staub"
       },
       "contact": {
         "label": "Contacter par mail",

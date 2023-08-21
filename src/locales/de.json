@@ -6,7 +6,7 @@
   },
   "introduction": {
     "title": "Wer sind wir?",
-    "description": "Im Auftrag und unter Aufsicht des Steuerungsorgans «Zweckgebundene NGDI-Mittel» - zusammengesetzt aus Vertretern von KOGIS, KKGEO und CadastreSuisse - organisieren die untenstehenden Themenführerschaften unter Koordination und Leitung der Geschäftsstelle den «Aufbau einer neuen Organisation im Bereich Geoinformation-Standards / INTERLIS-Governance». Aktuell wird eine Strategie erarbeitet und mit den Stakeholdern (Bund, Kantone, SOGI, eCH...) abgeglichen. Finanziert werden die Arbeiten durch die zweckgebundenen NGDI-Mittel",
+    "description": "Im Auftrag und unter Aufsicht des Steuerungsorgans «Zweckgebundene NGDI-Mittel» - zusammengesetzt aus Vertretern von KOGIS, KKGEO und CadastreSuisse - organisieren die untenstehenden Themenführerschaften unter Koordination und Leitung der Geschäftsstelle den «Aufbau einer neuen Organisation im Bereich Geoinformation-Standards / INTERLIS-Governance». Aktuell wird eine Strategie erarbeitet und mit den Stakeholdern (Bund, Kantone, SOGI, eCH,...) abgeglichen. Finanziert werden die Arbeiten durch die zweckgebundenen NGDI-Mittel",
     "button": {
       "label": "Übersichtsseite «Zweckgebundene NGDI-Mittel»",
       "link": "https://www.geo.admin.ch/de/zweckgebundene-ngdi-mittel"
@@ -14,7 +14,7 @@
   },
   "strategy": {
     "title": "Strategie",
-    "description": "Die Strategie GeoStandards.ch wurde am 7.6.2021 in Version 1.0 von Auftraggeberseite freigegeben. Es umfasst 2 Seiten und definiert 8 strategische Grundprinzipien von GeoStandards.ch",
+    "description": "Die Strategie GeoStandards.ch wurde am 07.06.2021 in Version 1.0 freigegeben. Es umfasst 2 Seiten und definiert 8 strategische Grundprinzipien von GeoStandards.ch",
     "button": {
       "label": "Den Strategieplan einsehen (PDF – 837kb)",
       "link": "https://nextcloud.geostandards.ch/index.php/s/iMgmzjigyXtjkmK"
@@ -22,7 +22,7 @@
   },
   "organization": {
     "title": "Organisation",
-    "description": "Das Organisationskonzept GeoStandards.ch wurde am 8.7.2021 in Version 1.0 von Auftraggeberseite freigegeben. Es umfasst 33 Seiten und beinhaltet Einleitung, Situationsanalyse, Sollzustand und ein Transitionskonzept",
+    "description": "Das Organisationskonzept GeoStandards.ch wurde am 08.07.2021 in Version 1.0 freigegeben. Es umfasst 33 Seiten und beinhaltet Einleitung, Situationsanalyse, Sollzustand und ein Transitionskonzept",
     "button": {
       "label": "Organisationsplan ansehen (PDF – 639kb)",
       "link": "https://nextcloud.geostandards.ch/index.php/s/Wpj8xWpFrWmkbRL"
@@ -30,12 +30,12 @@
   },
   "team": {
     "title": "Arbeitsgruppe",
-    "description": "Das GeoStandards.ch-Team ist in vier Bereiche gegliedert.",
+    "description": "Das GeoStandards.ch-Team ist in vier Bereiche gegliedert:",
     "marketing": {
       "title": "Geschäftsstelle & Marketing",
       "holders": {
         "holder-1": "Frank Gottsmann",
-        "holder-2": "Stv. Peter Staub"
+        "holder-2": "adj. Peter Staub"
       },
       "contact": {
         "label": "Per E-Mail kontaktieren",
@@ -59,7 +59,7 @@
       "title": "Themenführerschaft Standardisierung",
       "holders": {
         "holder-1": "a.i. Frank Gottsmann",
-        "holder-2": "Stv. Peter Staub"
+        "holder-2": "adj. Peter Staub"
       },
       "contact": {
         "label": "Per E-Mail kontaktieren",
