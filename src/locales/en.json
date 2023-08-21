@@ -1,5 +1,83 @@
 {
-  "message": {
-    "hello": "Hello world!"
+  "general": {
+    "title": "GeoStandards.ch",
+    "headline": "Swiss geoinformation strategy",
+    "langPickerLabel": "Select language"
+  },
+  "introduction": {
+    "title": "Qui sommes-nous ?",
+    "description": "Au nom et sous la supervision de l'organe de pilotage 'Moyens dédiés à l’INDG' - composé de représentants de KOGIS, KKGEO et CadastreSuisse - les responsables thématiques ci-dessous organisent la mise en place d'une nouvelle organisation dans le domaine des normes de géoinformation / gouvernance INTERLIS sous la coordination et la gestion du bureau. Une stratégie est en cours d'élaboration et comparée avec les parties prenantes (Confédération, cantons, SOGI, eCH.…). Les travaux sont financés par  des fonds affectés de NGDI.",
+    "button": {
+      "label": "Page de présentation des moyens dédiés à l’INDG",
+      "link": "https://www.geo.admin.ch/fr/moyens-dedies-indg"
+    }
+  },
+  "strategy": {
+    "title": "Stratégie",
+    "description": "La stratégie GeoStandards.ch a été validée le 7.6.2021 dans sa version 1.0 par le mandant. Elle comprend 2 pages et définit 8 principes stratégiques de base de GeoStandards.ch",
+    "button": {
+      "label": "Consulter le plan stratégique (PDF – 900kb)",
+      "link": "https://nextcloud.geostandards.ch/index.php/s/iMgmzjigyXtjkmK"
+    }
+  },
+  "organization": {
+    "title": "Organisation",
+    "description": "La version 1.0 du concept d'organisation GeoStandards.ch a été approuvée le 8.7.2021 par le mandant. Il comprend 33 pages et contient une introduction, une analyse de la situation, un état souhaité et un concept de transition.",
+    "button": {
+      "label": "Consulter le plan d'organisation (PDF – 1.2mb)",
+      "link": "https://nextcloud.geostandards.ch/index.php/s/Wpj8xWpFrWmkbRL"
+    }
+  },
+  "team": {
+    "title": "Groupe de travail",
+    "description": "L'équipe GeoStandards.ch est structurée autour de 4 axes.",
+    "marketing": {
+      "title": "Secrétariat et marketing",
+      "holders": {
+        "holder-1": "Frank Gottsmann",
+        "holder-2": "Stv. Peter Staub"
+      },
+      "contact": {
+        "label": "Contacter par mail",
+        "fake": "info[at]geostandards.ch",
+        "full": "info@geostandards.ch"
+      }
+    },
+    "training": {
+      "title": "Formation",
+      "holders": {
+        "holder-1": "Andreas Reimers",
+        "holder-2": "Bildungszentrum Geomatik Schweiz"
+      },
+      "contact": {
+        "label": "Contacter par mail",
+        "fake": "ausbildung[at]GeoStandards.ch",
+        "full": "ausbildung@GeoStandards.ch"
+      }
+    },
+    "standardisation": {
+      "title": "Standardisation",
+      "holders": {
+        "holder-1": "a.i. Frank Gottsmann",
+        "holder-2": "Stv. Peter Staub"
+      },
+      "contact": {
+        "label": "Contacter par mail",
+        "fake": "standardisierung[at]GeoStandards.ch",
+        "full": "standardisierung@GeoStandards.ch"
+      }
+    },
+    "tools": {
+      "title": "Outils",
+      "holders": {
+        "holder-1": "Stefan Henrich",
+        "holder-2": "Moflex Infra GmbH"
+      },
+      "contact": {
+        "label": "Contacter par mail",
+        "fake": "tools[at]GeoStandards.ch",
+        "full": "tools@GeoStandards.ch"
+      }
+    }
   }
 }
