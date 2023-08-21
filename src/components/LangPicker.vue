@@ -6,7 +6,7 @@
       </option>
     </select>
     <label class="lang-picker-label before:content[' '] after:content[' ']">
-      {{ $t("general.langPickerLabel") }}
+      {{ t("general.langPickerLabel") }}
     </label>
   </div>
 </template>
@@ -15,7 +15,7 @@
 import { ref, watch } from "vue";
 import { useI18n } from "vue-i18n";
 
-const { locale } = useI18n();
+const { locale, t } = useI18n();
 const selectedLanguage = ref(locale.value);
 
 const languages = [
