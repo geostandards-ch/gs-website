@@ -40,7 +40,7 @@
       "contact": {
         "label": "Contacter par mail",
         "fake": "info[at]geostandards.ch",
-        "full": "info@geostandards.ch"
+        "full": "info{'@'}geostandards.ch"
       }
     },
     "training": {
@@ -51,8 +51,8 @@
       },
       "contact": {
         "label": "Contacter par mail",
-        "fake": "ausbildung[at]GeoStandards.ch",
-        "full": "ausbildung@GeoStandards.ch"
+        "fake": "ausbildung[at]geostandards.ch",
+        "full": "ausbildung{'@'}geostandards.ch"
       }
     },
     "standardisation": {
@@ -63,8 +63,8 @@
       },
       "contact": {
         "label": "Contacter par mail",
-        "fake": "standardisierung[at]GeoStandards.ch",
-        "full": "standardisierung@GeoStandards.ch"
+        "fake": "standardisierung[at]geostandards.ch",
+        "full": "standardisierung{'@'}geostandards.ch"
       }
     },
     "tools": {
@@ -75,8 +75,8 @@
       },
       "contact": {
         "label": "Contacter par mail",
-        "fake": "tools[at]GeoStandards.ch",
-        "full": "tools@GeoStandards.ch"
+        "fake": "tools[at]geostandards.ch",
+        "full": "tools{'@'}geostandards.ch"
       }
     }
   }
