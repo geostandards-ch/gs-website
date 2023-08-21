@@ -1,9 +1,9 @@
 <template>
-  <nav class="bg-slate-600">
-    <div class="container m-auto px-4 py-4">
+  <nav class="bg-primary-500">
+    <div class="container m-auto px-4 py-8">
       <div class="flex justify-between">
         <div class="text-white">
-          <h1 class="font-display font-bold text-2xl">
+          <h1 class="font-display font-bold text-4xl">
             {{ t("general.title") }}
           </h1>
           <p>{{ t("general.headline") }}</p>
@@ -13,6 +13,8 @@
       </div>
     </div>
   </nav>
+  <!-- <div class="w-full h-4 bg-primary-400"></div>
+  <div class="w-full h-2 bg-primary-300"></div> -->
 </template>
 
 <script setup lang="ts">
