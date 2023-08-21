@@ -1,4 +1,6 @@
-# geostandards
+<img src="./logo.png" width="220">
+
+# GeoStandards.ch
 
 Temporary website for [GeoStandards.ch](https://geostandards.ch/)
 
