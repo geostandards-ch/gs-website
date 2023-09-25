@@ -6,10 +6,10 @@
   },
   "introduction": {
     "title": "Wer sind wir?",
-    "description": "Im Auftrag und unter Aufsicht des Steuerungsorgans «Zweckgebundene NGDI-Mittel» - zusammengesetzt aus Vertretern von KOGIS und KGK - organisieren die untenstehenden Themenführerschaften unter Koordination und Leitung der Geschäftsstelle den «Aufbau einer neuen Organisation im Bereich Geoinformation-Standards und INTERLIS-Governance». Aktuell wird eine Strategie erarbeitet und mit den Stakeholdern (Bund, Kantone, SOGI, eCH,...) abgeglichen. Finanziert werden die Arbeiten durch die zweckgebundenen NGDI-Mittel.",
+    "description": "Im Auftrag und unter Aufsicht von swisstopo KOGIS (Koordination, Geoinformation und Services) sowie KGK (Konferenz der kantonalen Geoinformations- und Katasterstellen), entsteht eine neue Organisation im Bereich (Geo-) Standards und INTERLIS-Governance. Die Geschäftsstelle Geostandards.ch organisiert und koordiniert die Arbeiten mithilfe unten aufgeführter Themenführerschaften.",
     "button": {
-      "label": "Übersichtsseite «Zweckgebundene NGDI-Mittel»",
-      "link": "https://www.geo.admin.ch/de/zweckgebundene-ngdi-mittel"
+      "label": "Umsetzung Strategie Geoinformation Schweiz",
+      "link": "https://www.geo.admin.ch/de/strategie-und-umsetzung"
     }
   },
   "strategy": {
@@ -78,6 +78,11 @@
         "fake": "tools[at]geostandards.ch",
         "full": "tools{'@'}geostandards.ch"
       }
+    }
+  },
+  "footer": {
+    "impressum": {
+      "link": "https://www.geo.admin.ch/de/impressum-verantwortlichkeiten-und-kontakte"
     }
   }
 }

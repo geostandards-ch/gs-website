@@ -6,10 +6,10 @@
   },
   "introduction": {
     "title": "Qui sommes-nous ?",
-    "description": "Sur mandat et sous la supervision de l'organe de pilotage «Moyens dédiées à l'INDG» - constitué de représentants de la COSIG et de la CGC - les directions thématiques ci-dessous organisent, sous la coordination et la direction du secrétariat, la «mise en place d'une nouvelle organisation dans le domaine des normes de la géoinformation et de la gouvernance INTERLIS». À l'heure actuelle, une stratégie est en cours d'élaboration et est en train d'être alignée avec les parties prenantes (Confédération, cantons, SOGI, eCH, etc.). Les travaux sont financés par les moyens dédiées à l'INDG.",
+    "description": "Sur mandat et sous la surveillance de swisstopo COSIG (Coordination, information géographique et services) et de la CGCS (Conférence des Services Cantonaux de Géoinformation et du Cadastre), une nouvelle organisation est créée dans le domaine des (géo)standards et de la gouvernance INTERLIS. Le centre opérationnel Géostandards.ch organise et coordonne les travaux à l'aide des guides thématiques mentionnés ci-dessous.",
     "button": {
-      "label": "Page de présentation des «moyens dédiés à l’INDG»",
-      "link": "https://www.geo.admin.ch/fr/moyens-dedies-indg"
+      "label": "Mise en oeuvre de la stratégie suisse pour l'information géographique",
+      "link": "https://www.geo.admin.ch/fr/strategie-et-mise-en-oeuvre"
     }
   },
   "strategy": {
@@ -79,5 +79,10 @@
         "full": "tools{'@'}geostandards.ch"
       }
     }
-  }
+  },
+  "footer": {
+    "impressum": {
+      "link": "https://www.geo.admin.ch/fr/impressum-responsabilites-et-contacts"
+    }
+  } 
 }
