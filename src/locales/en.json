@@ -6,10 +6,10 @@
   },
   "introduction": {
     "title": "About us",
-    "description": "On behalf and under the supervision of the steering body «Ressources dedicated to the NGDI» - composed of representatives from KOGIS and KGK - the thematic leaderships below organize, under the coordination and direction of the secretariat, the «establishment of a new organization in the field of geoinformation standards and INTERLIS governance». Currently, a strategy is being developed and aligned with stakeholders (Federal government, cantons, SOGI, eCH, etc.). The work is funded by the ressources dedicated to the NGDI.",
+    "description": "On behalf of and under the supervision of swisstopo COGIS (Coordination, Geoinformation and Services) and KGK (Conference of Cantonal Geoinformation and Cadastral Offices), a new organisation is being created in the area of (geo) standards and INTERLIS governance. The Geostandards.ch office organises and coordinates the work with the help of the thematic leaderships listed below.",
     "button": {
-      "label": "«Ressources dedicated to the NGDI» presentation page (FR or DE only)",
-      "link": "https://www.geo.admin.ch/en/moyens-dedies-indg"
+      "label": "Implementation of the Swiss Geoinformation Strategy",
+      "link": "https://www.geo.admin.ch/en/strategy-and-implementation"
     }
   },
   "strategy": {
@@ -78,6 +78,11 @@
         "fake": "tools[at]geostandards.ch",
         "full": "tools{'@'}geostandards.ch"
       }
+    }
+  },
+  "footer": {
+    "impressum": {
+      "link": "https://www.geo.admin.ch/en/impressum-responsibilities-and-contacts"
     }
   }
 }

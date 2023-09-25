@@ -19,6 +19,9 @@
         <p class="font-display text-md">
           Copyright © {{ t("general.title") }} – {{ creditYears() }}
         </p>
+        <p class="font-display text-md underline">
+          <a :href="t('footer.impressum.link')" target="_blank" alt="Impressum">Impressum</a>
+        </p>
       </div>
     </div>
   </footer>
