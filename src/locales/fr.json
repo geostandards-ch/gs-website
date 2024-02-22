@@ -16,16 +16,16 @@
     "title": "Stratégie",
     "description": "La stratégie GeoStandards.ch a été validée le 07.06.2021 dans sa version 1.0. Elle comprend 2 pages et définit 8 principes stratégiques de base de GeoStandards.ch",
     "button": {
-      "label": "Consulter le plan stratégique - DE uniquement (PDF – 900kb)",
-      "link": "https://nextcloud.geostandards.ch/index.php/s/iMgmzjigyXtjkmK"
+      "label": "Consulter le plan stratégique (PDF – 74ko)",
+      "link": "/docs/GS_Strategie_V1_FR.pdf"
     }
   },
   "organization": {
     "title": "Organisation",
     "description": "La version 1.0 du concept d'organisation GeoStandards.ch a été approuvée le 08.07.2021. Il comprend 33 pages et contient une introduction, une analyse de la situation, un état souhaité et un concept de transition.",
     "button": {
-      "label": "Consulter le plan d'organisation - DE uniquement (PDF – 1.2mb)",
-      "link": "https://nextcloud.geostandards.ch/index.php/s/Wpj8xWpFrWmkbRL"
+      "label": "Consulter le plan d'organisation - trad. DeepL (PDF – 251ko)",
+      "link": "/docs/GS_OrganisationConcept_V1_FR.pdf"
     }
   },
   "team": {
