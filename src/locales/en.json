@@ -16,16 +16,16 @@
     "title": "Strategy",
     "description": "Version 1.0 of the GeoStandards.ch strategy was approved on 07.06.2021. It comprises 2 pages and defines 8 basic strategic principles for GeoStandards.ch.",
     "button": {
-      "label": "Consult the strategic plan - DE only (PDF – 900kb)",
-      "link": "https://nextcloud.geostandards.ch/index.php/s/iMgmzjigyXtjkmK"
+      "label": "Consult the strategic plan - DeepL transl. (PDF – 53kb)",
+      "link": "docs/GS_Strategie_V1_EN.pdf"
     }
   },
   "organization": {
     "title": "Organisation",
     "description": "Version 1.0 of the GeoStandards.ch organisational concept was approved on 08.07.2021. It comprises 33 pages and contains an introduction, a situation analysis, a desired state and a transition concept.",
     "button": {
-      "label": "Consult the organisation plan - DE only (PDF – 1.2mb)",
-      "link": "https://nextcloud.geostandards.ch/index.php/s/Wpj8xWpFrWmkbRL"
+      "label": "Consult the organisation plan - DeepL transl. (PDF – 236kb)",
+      "link": "/docs/GS_OrganisationConcept_V1_EN.pdf"
     }
   },
   "team": {
