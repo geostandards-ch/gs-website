@@ -88,9 +88,8 @@
   "redirect": {
     "label": "Notice about the move",
     "title": "geostandards.ch is moving!",
-    "text": "The content on geostandards in Switzerland can now be found on the national geoplatform SWISSGEO at",
+    "text": "The content on geostandards in Switzerland can now be found on the national geoplatform SWISSGEO.",
     "button": "Go to SWISSGEO",
-    "url": "https://info.swissgeo.ch/",
-    "urlLabel": "info.swissgeo.ch"
+    "url": "https://info.swissgeo.ch/"
   }
 }

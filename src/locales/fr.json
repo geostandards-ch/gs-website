@@ -88,9 +88,8 @@
   "redirect": {
     "label": "Remarque concernant le déménagement",
     "title": "geostandards.ch déménage !",
-    "text": "Vous trouverez désormais les informations relatives aux géostandards en Suisse sur la géoplateforme nationale SWISSGEO à l'adresse suivante :",
+    "text": "Vous trouverez désormais les informations relatives aux géostandards en Suisse sur la géoplateforme nationale SWISSGEO.",
     "button": "Vers SWISSGEO",
-    "url": "https://info.swissgeo.ch/",
-    "urlLabel": "info.swissgeo.ch"
+    "url": "https://info.swissgeo.ch/"
   }
 }
