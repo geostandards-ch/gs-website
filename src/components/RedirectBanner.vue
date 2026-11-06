@@ -10,10 +10,6 @@
       <p class="text-center sm:text-left">
         <strong class="font-display">{{ t("redirect.title") }}</strong>
         {{ t("redirect.text") }}
-        <a :href="t('redirect.url')" class="underline">{{
-          t("redirect.urlLabel")
-        }}</a
-        >.
       </p>
       <a class="banner-button" :href="t('redirect.url')">
         {{ t("redirect.button") }}
