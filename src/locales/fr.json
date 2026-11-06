@@ -84,5 +84,13 @@
     "impressum": {
       "link": "https://www.geo.admin.ch/fr/impressum-responsabilites-et-contacts"
     }
-  } 
+  },
+  "redirect": {
+    "label": "Remarque concernant le déménagement",
+    "title": "geostandards.ch déménage !",
+    "text": "Vous trouverez désormais les informations relatives aux géostandards en Suisse sur la géoplateforme nationale SWISSGEO à l'adresse suivante :",
+    "button": "Vers SWISSGEO",
+    "url": "https://info.swissgeo.ch/",
+    "urlLabel": "info.swissgeo.ch"
+  }
 }

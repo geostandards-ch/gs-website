@@ -1,4 +1,5 @@
 <template>
+  <RedirectBanner />
   <TheHeader />
 
   <div class="container m-auto px-4">
@@ -201,6 +202,7 @@
 <script setup lang="ts">
 import { useI18n } from "vue-i18n";
 
+import RedirectBanner from "./components/RedirectBanner.vue";
 import TheHeader from "./components/TheHeader.vue";
 import TheFooter from "./components/TheFooter.vue";
 
